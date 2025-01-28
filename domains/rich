@@ -1,0 +1,11 @@
+{
+    "description": "Personal website",
+    "repo": "https://github.com/RichEDev/github-repository",
+    "owner": {
+        "username": "RichEDev",
+        "email": "RichEDev84356@gmail.com"
+    },
+    "record": {
+        "CNAME": "richedev.github.io/"
+    }
+}
